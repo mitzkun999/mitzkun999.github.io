@@ -1,0 +1,27 @@
+/* MAIN */
+
+h1 {
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-size: 150%;
+    letter-spacing: 1px;
+    text-decoration: underline;
+}
+
+
+/* PROGRAMMING */
+
+.prog.money {
+    color: #b1bb64;
+    font-size: 115%;
+}
+
+
+
+/* UPDATES */
+
+.updates.future {
+    padding-bottom: 20px;
+}
